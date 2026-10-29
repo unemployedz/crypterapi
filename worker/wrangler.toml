@@ -1,0 +1,11 @@
+name = "rbx-dom-loader"
+main = "src/index.ts"
+compatibility_date = "2024-11-01"
+
+# Uncomment and bind after you create the KV namespace
+# [[kv_namespaces]]
+# binding = "PAYLOAD_KV"
+# id = "your-kv-id"
+
+# [vars]
+# ORACLE_SECRET = "change-me"
